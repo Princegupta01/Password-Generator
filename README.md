@@ -4,3 +4,4 @@ to guess or crack using automated tools.
 P
 a
 s
+s
